@@ -1,0 +1,7 @@
+C:\Users\GC Student\Desktop\Grand Circus\Lab7.1\Lab7.1\bin\Debug\Lab7.1.exe.config
+C:\Users\GC Student\Desktop\Grand Circus\Lab7.1\Lab7.1\bin\Debug\Lab7.1.exe
+C:\Users\GC Student\Desktop\Grand Circus\Lab7.1\Lab7.1\bin\Debug\Lab7.1.pdb
+C:\Users\GC Student\Desktop\Grand Circus\Lab7.1\Lab7.1\obj\Debug\Lab7.1.csprojResolveAssemblyReference.cache
+C:\Users\GC Student\Desktop\Grand Circus\Lab7.1\Lab7.1\obj\Debug\Lab7.1.csproj.CoreCompileInputs.cache
+C:\Users\GC Student\Desktop\Grand Circus\Lab7.1\Lab7.1\obj\Debug\Lab7.1.exe
+C:\Users\GC Student\Desktop\Grand Circus\Lab7.1\Lab7.1\obj\Debug\Lab7.1.pdb
